@@ -7,7 +7,7 @@ CloudPulse is a dark-themed SaaS dashboard designed specifically for non-technic
 ---
 
 ## 🎨 Case Study Preview
-![CloudPulse Banner](./Dashboard-Main.png)
+![CloudPulse Banner](./Case Study Visual Presentation.png)
 
 ---
 
